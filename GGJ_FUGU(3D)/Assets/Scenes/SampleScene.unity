@@ -249,9 +249,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'This is FUGU''s Game.
-
-    Enjoy!'
+  m_Text: This is FUGU's Game.
 --- !u!222 &261060522
 CanvasRenderer:
   m_ObjectHideFlags: 0
