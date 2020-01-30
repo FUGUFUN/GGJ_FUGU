@@ -53,7 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\NewBehaviourScript.cs" />
+     <Compile Include="Assets\TestController.cs" />
      <None Include="Assets\Read_me.txt" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/b1017154/Desktop/GGJ_FUGU/GGJ_FUGU(3D)/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
