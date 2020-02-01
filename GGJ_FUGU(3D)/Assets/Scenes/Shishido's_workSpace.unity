@@ -363,7 +363,7 @@ PrefabInstance:
     - target: {fileID: 8638187692294283027, guid: 125d71adfed6eb345a67bad76832a76a,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.68
+      value: 2.13
       objectReference: {fileID: 0}
     - target: {fileID: 8638187692294283027, guid: 125d71adfed6eb345a67bad76832a76a,
         type: 3}
@@ -506,6 +506,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 892990446}
     m_Modifications:
+    - target: {fileID: 114452467617252312, guid: 935b89d46d877e4448880e6f7d55d3dc,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 227995052796617006, guid: 935b89d46d877e4448880e6f7d55d3dc,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -515,6 +520,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: FistPlane
+      objectReference: {fileID: 0}
+    - target: {fileID: 3268246592858080474, guid: 935b89d46d877e4448880e6f7d55d3dc,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5959721155588260096, guid: 935b89d46d877e4448880e6f7d55d3dc,
         type: 3}
@@ -598,7 +608,7 @@ PrefabInstance:
     - target: {fileID: 8638187692294283027, guid: 125d71adfed6eb345a67bad76832a76a,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.01
+      value: -2.171
       objectReference: {fileID: 0}
     - target: {fileID: 8638187692294283027, guid: 125d71adfed6eb345a67bad76832a76a,
         type: 3}
@@ -1029,6 +1039,11 @@ PrefabInstance:
     - target: {fileID: 1356163354936380333, guid: f38db06d5ebdb1b4dbacb3c0c48aadf3,
         type: 3}
       propertyPath: startTime
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1356163354936380333, guid: f38db06d5ebdb1b4dbacb3c0c48aadf3,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1356163354936380334, guid: f38db06d5ebdb1b4dbacb3c0c48aadf3,
